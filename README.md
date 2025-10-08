@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Hey there! 👋
+## Hey there! 👋
 
 I have over 14 years of experience building systems and have spent my career moving between backend development, frontend interfaces, and platform engineering. In summary: basically, looking forward to wherever the interesting technical challenges are.
 
